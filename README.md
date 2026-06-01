@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `1 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `3 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `2 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `6 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -32,9 +32,15 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](./Days/Day01/PascalsTriangle1.java)
 - [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](./Days/Day01/NextPermutation.java)
 
+### 📅 Day 2: Arrays II
+- [x] [Maximum Subarray](https://leetcode.com) | [Solution File](./Days/Day02/MaximumSubarray.java)
+- [x] [Sort Colors](https://leetcode.com) | [Solution File](./Days/Day02/SortColors.java)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com) | [Solution File](./Days/Day02/BestTimeToBuyAndSellStock.java)
+
 </details>
 
 <details>
+<summary>📂 Week 2 & Beyond</summary>
 
 *Subsequent days of the Striver SDE sheet will be added here dynamically as I unlock them!*
 
