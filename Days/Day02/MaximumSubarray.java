@@ -8,7 +8,7 @@ Space Complexity: O(1) -> IUses only two variables for keeping track of the sum.
 
 import java.util.*;
 
-class Solution {
+class MaximumSubarray {
     public int maxSubArray(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
         int maxSoFar = 0;
