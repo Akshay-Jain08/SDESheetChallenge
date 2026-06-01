@@ -29,7 +29,7 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 ### 📅 Day 1: Arrays I
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution File](./Days/Day01/SetMatrixZeroes.java)
-- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](./Days/Day01/PascalsTriangle.java)
+- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](./Days/Day01/PascalsTriangle1.java)
 - [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](./Days/Day01/NextPermutation.java)
 
 </details>
