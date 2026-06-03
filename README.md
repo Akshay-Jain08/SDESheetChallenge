@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `2 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `6 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `3 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `9 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -33,9 +33,14 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](./Days/Day01/NextPermutation.java)
 
 ### 📅 Day 2: Arrays II
-- [x] [Maximum Subarray](https://leetcode.com) | [Solution File](./Days/Day02/MaximumSubarray.java)
-- [x] [Sort Colors](https://leetcode.com) | [Solution File](./Days/Day02/SortColors.java)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com) | [Solution File](./Days/Day02/BestTimeToBuyAndSellStock.java)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./Days/Day02/MaximumSubarray.java)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./Days/Day02/SortColors.java)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./Days/Day02/BestTimeToBuyAndSellStock.java)
+
+### 📅 Day 3: Arrays II (Part A)
+- [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](./Days/Day03/RotateMatrixBy90Degrees.java)
+- [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](./Days/Day03/MergeOverlappingSubintervals.java)
+- [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](./Days/Day03/MergeTwoSortedArraysWithoutExtraSpace.java)
 
 </details>
 
