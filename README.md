@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `3 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `9 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `4 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `12 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -27,12 +27,12 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 <details open>
 <summary>📂 Week 1</summary>
 
-### 📅 Day 1: Arrays I
+### 📅 Day 1: Arrays I (Part A)
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution File](./Days/Day01/SetMatrixZeroes.java)
 - [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution File](./Days/Day01/PascalsTriangle1.java)
 - [x] [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution File](./Days/Day01/NextPermutation.java)
 
-### 📅 Day 2: Arrays II
+### 📅 Day 2: Arrays II (Part B)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution File](./Days/Day02/MaximumSubarray.java)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution File](./Days/Day02/SortColors.java)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution File](./Days/Day02/BestTimeToBuyAndSellStock.java)
@@ -41,6 +41,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Rotate Image (Matrix by 90°)](https://leetcode.com/problems/rotate-image/) | [Solution File](./Days/Day03/RotateMatrixBy90Degrees.java)
 - [x] [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/) | [Solution File](./Days/Day03/MergeOverlappingSubintervals.java)
 - [x] [Merge Sorted Array Without Extra Space](https://leetcode.com/problems/merge-sorted-array/) | [Solution File](./Days/Day03/MergeTwoSortedArraysWithoutExtraSpace.java)
+
+### 📅 Day 4: Arrays II (Part B)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](./Days/Day04/FindDuplicateNumber.java)
+- [x] [Repeat and Missing Number](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [Solution File](./Days/Day04/FindTheRepeatingAndMissingNumber.java)
+- [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./Days/Day04/CountInversions.java)
 
 </details>
 
