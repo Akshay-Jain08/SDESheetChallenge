@@ -2,13 +2,45 @@
  * Problem: Search a 2D Matrix
  * Link: https://leetcode.com/problems/search-a-2d-matrix/
  * 
- * Time Complexity: O(log(M * N)) -> Dual binary search runs in logarithmic bounds.
+ * Time Complexity: O(log(M * N)) -> Ultimate single-loop binary search via virtual flattening.
  * Space Complexity: O(1)        -> Pure index search pointer variables.
  */
 
 public class SearchInA2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
-        
+
+        // This approach implements the search by virtual flattening of the matrix
+        // The resulting array will be a sorted array of size m * n
+        // so we can apply binary search on this array
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int start = 0;
+        int end = m * n - 1;
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            // to access the particular element of the matrix, we can calculate
+            // the row and col with the following formula
+            int row = mid / n;
+            int col = mid % n;
+
+            if (target == matrix[row][col]) {
+                return true;
+            }
+            else if (target > matrix[row][col]) {
+                start = mid + 1;
+            }
+            else {
+                end = mid - 1;
+            }
+        }
+
+        return false;
+
+
+
+        /*
         // TC - O(logM + logN) = O(log(M * N))
         // lowerBound essentially does the same thing what we did in the below approach
         // just in better time complexity
@@ -16,6 +48,7 @@ public class SearchInA2DMatrix {
 
         // Binary search on the identified row
         return binarySearchRow(row, matrix, target);
+        */
 
 
 
