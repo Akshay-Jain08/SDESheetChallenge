@@ -20,7 +20,7 @@ public class SearchInA2DMatrix {
 
 
         /*
-        // TC - O(M log N)
+        // TC - O(M + log N)
         int m = matrix.length;
 
         int row = 0;
