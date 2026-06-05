@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `4 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `12 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `5 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `15 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -46,6 +46,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution File](./Days/Day04/FindDuplicateNumber.java)
 - [x] [Repeat and Missing Number](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [Solution File](./Days/Day04/FindTheRepeatingAndMissingNumber.java)
 - [x] [Count Inversions in an Array](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution File](./Days/Day04/CountInversions.java)
+
+### 📅 Day 5: Arrays III (Part A)
+- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution File](./Days/Day05/SearchInA2DMatrix.java)
+- [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution File](./Days/Day05/Power.java)
+- [x] [Majority Element (> N/2 times)](https://leetcode.com/problems/majority-element/) | [Solution File](./Days/Day05/MajorityElement.java)
 
 </details>
 
