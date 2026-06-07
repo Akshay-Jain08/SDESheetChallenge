@@ -14,7 +14,7 @@ public class TwoSum {
 
         for (int i = 0; i < nums.length; i++) {
             // Check if the companion for the current element has been traversed already
-            Integer idx map.get(target - nums[i]);
+            Integer idx = map.get(target - nums[i]);
 
             // Return when companion found
             if (idx != null) {
