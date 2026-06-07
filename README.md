@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `6 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `18 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `7 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `21 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -56,6 +56,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Majority Element II (> N/3 times)](https://leetcode.com/problems/majority-element-ii/) | [Solution File](./Days/Day06/MajorityElementII.java)
 - [x] [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution File](./Days/Day06/UniquePaths.java)
 - [x] [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Solution File](./Days/Day06/ReversePairs.java)
+
+### 📅 Day 7: Arrays IV (Part A)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution File](./Days/Day07/TwoSum.java)
+- [x] [4Sum](https://leetcode.com/problems/4sum/) | [Solution File](./Days/Day07/FourSum.java)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution File](./Days/Day07/LongestConsecutiveSequence.java)
 
 </details>
 
