@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `7 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `21 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `8 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `24 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -25,7 +25,7 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 *Click on a drop-down section to expand my progress for that week!*
 
 <details open>
-<summary>📂 Week 1</summary>
+<summary>📂 Week 1 (Days 1 to 7)</summary>
 
 ### 📅 Day 1: Arrays I (Part A)
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution File](./Days/Day01/SetMatrixZeroes.java)
@@ -64,8 +64,18 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 </details>
 
+<details open>
+<summary>📂 Week 2 (Days 8 to 14)</summary>
+
+### 📅 Day 8: Arrays IV (Part B)
+- [x] [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution File](./Days/Day08/LongestSubarrayWithSumK.java)
+- [x] [Subarrays with Given XOR K](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution File](./Days/Day08/CountSubarraysWithGivenXOR.java)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution File](./Days/Day08/LongestSubstringWithoutRepeatingCharacters.java)
+
+</details>
+
 <details>
-<summary>📂 Week 2 & Beyond</summary>
+<summary>📂 Week 3 & Beyond</summary>
 
 *Subsequent days of the Striver SDE sheet will be added here dynamically as I unlock them!*
 
