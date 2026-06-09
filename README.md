@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `8 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `24 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `9 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `27 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -71,6 +71,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution File](./Days/Day08/LongestSubarrayWithSumK.java)
 - [x] [Subarrays with Given XOR K](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution File](./Days/Day08/CountSubarraysWithGivenXOR.java)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution File](./Days/Day08/LongestSubstringWithoutRepeatingCharacters.java)
+
+### 📅 Day 9: Linked List I
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution File](./Days/Day09/ReverseLinkedList.java)
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution File](./Days/Day09/MiddleOfTheLinkedList.java)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution File](./Days/Day09/MergeTwoSortedLists.java)
 
 </details>
 
