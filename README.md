@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `9 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `27 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `10 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `30 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -76,6 +76,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution File](./Days/Day09/ReverseLinkedList.java)
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution File](./Days/Day09/MiddleOfTheLinkedList.java)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution File](./Days/Day09/MergeTwoSortedLists.java)
+
+### 📅 Day 10: Linked List II
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution File](./Days/Day10/RemoveNthNodeFromEndOfList.java)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution File](./Days/Day10/AddTwoNumbers.java)
+- [x] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution File](./Days/Day10/DeleteNodeInALinkedList.java)
 
 </details>
 
