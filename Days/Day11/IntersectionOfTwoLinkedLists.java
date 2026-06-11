@@ -1,6 +1,6 @@
 /**
  * Problem: Intersection of Two Linked Lists
- * Link: https://leetcode.com
+ * Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
  * 
  * Time Complexity: O(N + M) -> Simultaneous traversal neutralizing length differences.
  * Space Complexity: O(1)     -> In-place reference matching with zero extra memory.
