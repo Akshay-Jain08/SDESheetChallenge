@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `10 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `30 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `11 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `33 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -72,15 +72,20 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Subarrays with Given XOR K](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution File](./Days/Day08/CountSubarraysWithGivenXOR.java)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution File](./Days/Day08/LongestSubstringWithoutRepeatingCharacters.java)
 
-### 📅 Day 9: Linked List I
+### 📅 Day 9: Linked List I (Part A)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution File](./Days/Day09/ReverseLinkedList.java)
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution File](./Days/Day09/MiddleOfTheLinkedList.java)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution File](./Days/Day09/MergeTwoSortedLists.java)
 
-### 📅 Day 10: Linked List II
+### 📅 Day 10: Linked List I (Part B)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution File](./Days/Day10/RemoveNthNodeFromEndOfList.java)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution File](./Days/Day10/AddTwoNumbers.java)
 - [x] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution File](./Days/Day10/DeleteNodeInALinkedList.java)
+
+### 📅 Day 11: Linked List II
+- [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution File](./Days/Day11/IntersectionOfTwoLinkedLists.java)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution File](./Days/Day11/LinkedListCycle.java)
+- [x] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution File](./Days/Day11/ReverseNodesInKGroup.java)
 
 </details>
 
