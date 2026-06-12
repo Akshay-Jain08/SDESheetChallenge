@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `11 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `33 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `12 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `36 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -86,6 +86,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution File](./Days/Day11/IntersectionOfTwoLinkedLists.java)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution File](./Days/Day11/LinkedListCycle.java)
 - [x] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution File](./Days/Day11/ReverseNodesInKGroup.java)
+
+### 📅 Day 12: Linked List II (Part B)
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution File](./Days/Day12/PalindromeLinkedList.java)
+- [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution File](./Days/Day12/LinkedListCycleII.java)
+- [x] [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Solution File](./Days/Day12/FlatteningALinkedList.java)
 
 </details>
 
