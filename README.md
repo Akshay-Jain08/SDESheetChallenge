@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `12 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `36 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `13 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `39 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -91,6 +91,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution File](./Days/Day12/PalindromeLinkedList.java)
 - [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution File](./Days/Day12/LinkedListCycleII.java)
 - [x] [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Solution File](./Days/Day12/FlatteningALinkedList.java)
+
+### 📅 Day 13: Linked List & Arrays (Part A)
+- [x] [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution File](./Days/Day13/RotateList.java)
+- [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution File](./Days/Day13/CopyListWithRandomPointer.java)
+- [x] [3Sum](https://leetcode.com/problems/3sum/) | [Solution File](./Days/Day13/ThreeSum.java)
 
 </details>
 
