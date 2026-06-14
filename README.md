@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `13 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `39 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `14 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `42 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -96,6 +96,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution File](./Days/Day13/RotateList.java)
 - [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution File](./Days/Day13/CopyListWithRandomPointer.java)
 - [x] [3Sum](https://leetcode.com/problems/3sum/) | [Solution File](./Days/Day13/ThreeSum.java)
+
+### 📅 Day 14: Linked List & Arrays (Part B)
+- [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution File](./Days/Day14/TrappingRainWater.java)
+- [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution File](./Days/Day14/RemoveDuplicatesFromSortedArray.java)
+- [x] [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution File](./Days/Day14/MaxConsecutiveOnes.java)
 
 </details>
 
