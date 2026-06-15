@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `14 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `42 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `15 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `45 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -104,9 +104,12 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 </details>
 
-<details>
-<summary>📂 Week 3 & Beyond</summary>
+<details open>
+<summary>📂 Week 3 (Days 15 to 21)</summary>
 
-*Subsequent days of the Striver SDE sheet will be added here dynamically as I unlock them!*
+### 📅 Day 15: Greedy Algorithm (Part A)
+- [x] [Activity Selection / N Meetings in One Room](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | [Solution File](./Days/Day15/ActivitySelection.java)
+- [x] [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Solution File](./Days/Day15/MinimumPlatforms.java)
+- [x] [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [Solution File](./Days/Day15/JobSequencingProblem.java)
 
 </details>
