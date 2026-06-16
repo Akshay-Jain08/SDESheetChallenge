@@ -124,6 +124,7 @@ public class CoinChange {
         /*
         // TC - O(N logN) & SC - O(logN)
         // This is a greedy approach and use the maximum possible coin for making the amount
+        // Though this approach doesn't really work because the denominations are not consistent
         Arrays.sort(coins);
         int minCoins = 0;
 
