@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `15 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `45 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `16 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `50 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -111,5 +111,12 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Activity Selection / N Meetings in One Room](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | [Solution File](./Days/Day15/ActivitySelection.java)
 - [x] [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Solution File](./Days/Day15/MinimumPlatforms.java)
 - [x] [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [Solution File](./Days/Day15/JobSequencingProblem.java)
+- [x] [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution File](./Days/Day15/FractionalKnapsack.java)
+
+### 📅 Day 16: Greedy, DP & Recursion
+- [x] [Coin Change / Minimum Coins](https://leetcode.com/problems/coin-change/) | [Solution File](./Days/Day16/CoinChange.java)
+- [x] [Assign Cookies / Content Children](https://leetcode.com/problems/assign-cookies/) | [Solution File](./Days/Day16/AssignCookies.java)
+- [x] [Subset Sum Problem / Minimum Flags](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Solution File](./Days/Day16/SubsetSum.java)
+- [x] [Subsets II / Subsets with Duplicates](https://leetcode.com/problems/subsets-ii/) | [Solution File](./Days/Day16/SubsetsII.java)
 
 </details>
