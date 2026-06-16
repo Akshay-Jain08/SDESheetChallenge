@@ -1,3 +1,11 @@
+/**
+ * Problem: Fractional Knapsack
+ * Link: https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
+ * 
+ * Time Complexity: O(N log N) -> Heap construction and greedy item extraction.
+ * Space Complexity: O(N)       -> Priority queue space for sorting N custom items.
+ */
+
 import java.util.PriorityQueue;
 
 public class FractionalKnapsack {
@@ -13,14 +21,14 @@ public class FractionalKnapsack {
             this.weight = weight;
             this.unitVal = unitVal;
         }
-}
+    }
 
     public double fractionalKnapsack(int[] val, int[] wt, int capacity) {
         // code here
         
         // TC - O(N logN) & SC - O(N)
-        // This approach calculates unitVal and sorts according to it
-        // in non-increasing order 
+        // Calculates unit value and stores items
+        // in a maxHeap based on value per unit weight
         // This is done to ensure that maximum worth of the item
         // is taken out of all the remaining items every time
         PriorityQueue<Items> maxHeap = new PriorityQueue<>(
@@ -36,7 +44,8 @@ public class FractionalKnapsack {
         
         double maxVal = 0;
         
-        // Traverse through all the items and get the max worth item every single iteration
+        // Traverse through all the items and get the max value per unit weight
+        // item every single iteration
         while (capacity > 0 && !maxHeap.isEmpty()) {
             Items item = maxHeap.poll();
             
