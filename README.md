@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `16 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `50 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `17 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `54 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -118,5 +118,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Assign Cookies / Content Children](https://leetcode.com/problems/assign-cookies/) | [Solution File](./Days/Day16/AssignCookies.java)
 - [x] [Subset Sum Problem / Minimum Flags](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Solution File](./Days/Day16/SubsetSum.java)
 - [x] [Subsets II / Subsets with Duplicates](https://leetcode.com/problems/subsets-ii/) | [Solution File](./Days/Day16/SubsetsII.java)
+
+### 📅 Day 17: Recursion & Backtracking
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution File](./Days/Day17/CombinationSum.java)
+- [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution File](./Days/Day17/CombinationSumII.java)
+- [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution File](./Days/Day17/PalindromePartitioning.java)
+- [x] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution File](./Days/Day17/PermutationSequence.java)
 
 </details>
