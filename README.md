@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `17 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `54 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `18 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `57 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -124,5 +124,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution File](./Days/Day17/CombinationSumII.java)
 - [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution File](./Days/Day17/PalindromePartitioning.java)
 - [x] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution File](./Days/Day17/PermutationSequence.java)
+
+### 📅 Day 18: Recursion & Backtracking (Part B)
+- [x] [Permutations](https://leetcode.com/problems/permutations/) | [Solution File](./Days/Day18/Permutations.java)
+- [x] [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution File](./Days/Day18/NQueens.java)
+- [x] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution File](./Days/Day18/SudokuSolver.java)
 
 </details>
