@@ -15,7 +15,7 @@ public class RatInAMaze {
         // This approach uses standard recursion and backtracking approach to keep 
         // approach the last cell following the lexicographical order 
         // fixed by dr and dc arrays
-        ArrayList<String> result = new ArrayList();
+        ArrayList<String> result = new ArrayList<>();
         
         // If the first cell is blocked, the rat cannot move further
         if (maze[0][0] == 0) return result;
