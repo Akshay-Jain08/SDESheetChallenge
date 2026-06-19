@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `18 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `57 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `19 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `60 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -119,7 +119,7 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Subset Sum Problem / Minimum Flags](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Solution File](./Days/Day16/SubsetSum.java)
 - [x] [Subsets II / Subsets with Duplicates](https://leetcode.com/problems/subsets-ii/) | [Solution File](./Days/Day16/SubsetsII.java)
 
-### 📅 Day 17: Recursion & Backtracking
+### 📅 Day 17: Recursion & Backtracking (Part A)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution File](./Days/Day17/CombinationSum.java)
 - [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution File](./Days/Day17/CombinationSumII.java)
 - [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution File](./Days/Day17/PalindromePartitioning.java)
@@ -129,5 +129,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Permutations](https://leetcode.com/problems/permutations/) | [Solution File](./Days/Day18/Permutations.java)
 - [x] [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution File](./Days/Day18/NQueens.java)
 - [x] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution File](./Days/Day18/SudokuSolver.java)
+
+### 📅 Day 19: Recursion & Backtracking (Part C)
+- [x] [M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [Solution File](./Days/Day19/MColoringProblem.java)
+- [x] [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution File](./Days/Day19/RatInAMaze.java)
+- [x] [Word Break](https://leetcode.com/problems/word-break/) | [Solution File](./Days/Day19/WordBreak.java)
 
 </details>
