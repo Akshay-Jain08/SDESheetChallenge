@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `19 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `60 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `20 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `64 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -134,5 +134,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [Solution File](./Days/Day19/MColoringProblem.java)
 - [x] [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution File](./Days/Day19/RatInAMaze.java)
 - [x] [Word Break](https://leetcode.com/problems/word-break/) | [Solution File](./Days/Day19/WordBreak.java)
+
+### 📅 Day 20: Binary Search (Part A)
+- [x] [Find Nth Root of M](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | [Solution File](./Days/Day20/FindNthRootOfM.java)
+- [x] [Median in a Row-wise Sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | [Solution File](./Days/Day20/MedianInARowWiseSortedMatrix.java)
+- [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution File](./Days/Day20/SingleElementInASortedArray.java)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution File](./Days/Day20/SearchInRotatedSortedArray.java)
 
 </details>
