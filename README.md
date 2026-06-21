@@ -141,4 +141,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution File](./Days/Day20/SingleElementInASortedArray.java)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution File](./Days/Day20/SearchInRotatedSortedArray.java)
 
+### 📅 Day 21: Binary Search (Part B)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution File](./Days/Day21/MedianOfTwoSortedArrays.java)
+- [x] [K-th Element of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | [Solution File](./Days/Day21/KthElementOfTwoArrays.java)
+- [x] [Allocate Minimum Number of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution File](./Days/Day21/AllocateMinimumPages.java)
+- [x] [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution File](./Days/Day21/AggressiveCows.java)
+
 </details>
