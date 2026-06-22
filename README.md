@@ -148,3 +148,13 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution File](./Days/Day21/AggressiveCows.java)
 
 </details>
+
+<details open>
+<summary>📂 Week 4 (Days 22 to 28)</summary>
+
+### 📅 Day 22: Heaps & Priority Queues (Part A)
+- [x] [Max Heap Implementation](https://www.geeksforgeeks.org/problems/max-heap-implementation/1) | [Solution File](./Days/Day22/MaxHeapImplementation.java)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution File](./Days/Day22/KthLargestElementInAnArray.java)
+- [x] [Maximum Sum Combinations](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [Solution File](./Days/Day22/MaximumSumCombination.java)
+
+</details>
