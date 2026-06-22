@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `20 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `64 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `22 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `71 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
