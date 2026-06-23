@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `22 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `71 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `23 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `74 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -156,5 +156,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Max Heap Implementation](https://www.geeksforgeeks.org/problems/max-heap-implementation/1) | [Solution File](./Days/Day22/MaxHeapImplementation.java)
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution File](./Days/Day22/KthLargestElementInAnArray.java)
 - [x] [Maximum Sum Combinations](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [Solution File](./Days/Day22/MaximumSumCombination.java)
+
+### 📅 Day 23: Heaps & Priority Queues (Part B)
+- [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution File](./Days/Day23/FindMedianFromDataStream.java)
+- [x] [Merge K Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [Solution File](./Days/Day23/MergeKSortedArrays.java)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution File](./Days/Day23/TopKFrequentElements.java)
 
 </details>
