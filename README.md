@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `23 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `74 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `24 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `78 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -161,5 +161,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution File](./Days/Day23/FindMedianFromDataStream.java)
 - [x] [Merge K Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [Solution File](./Days/Day23/MergeKSortedArrays.java)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution File](./Days/Day23/TopKFrequentElements.java)
+
+### 📅 Day 24: Stacks & Queues (Part A)
+- [x] [Implement Stack Using Array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | [Solution File](./Days/Day24/ImplementStackUsingArray.java)
+- [x] [Implement Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | [Solution File](./Days/Day24/ImplementQueueUsingArray.java)
+- [x] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution File](./Days/Day24/ImplementStackUsingQueues.java)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution File](./Days/Day24/ImplementQueueUsingStacks.java)
 
 </details>
