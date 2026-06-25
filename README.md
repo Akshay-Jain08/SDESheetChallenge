@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `24 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `78 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `25 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `81 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -167,5 +167,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Implement Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | [Solution File](./Days/Day24/ImplementQueueUsingArray.java)
 - [x] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution File](./Days/Day24/ImplementStackUsingQueues.java)
 - [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution File](./Days/Day24/ImplementQueueUsingStacks.java)
+
+### 📅 Day 25: Stacks & Queues (Part B)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution File](./Days/Day25/ValidParentheses.java)
+- [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution File](./Days/Day25/NextGreaterElementI.java)
+- [x] [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | [Solution File](./Days/Day25/SortAStack.java)
 
 </details>
