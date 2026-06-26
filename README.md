@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `25 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `81 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `26 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `84 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -172,5 +172,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution File](./Days/Day25/ValidParentheses.java)
 - [x] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution File](./Days/Day25/NextGreaterElementI.java)
 - [x] [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | [Solution File](./Days/Day25/SortAStack.java)
+
+### 📅 Day 26: Stacks & Queues (Part C)
+- [x] [Next Smaller Element](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | [Solution File](./Days/Day26/NextSmallerElement.java)
+- [x] [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution File](./Days/Day26/LRUCache.java)
+- [x] [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution File](./Days/Day26/LFUCache.java)
 
 </details>
