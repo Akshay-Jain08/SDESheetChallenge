@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `26 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `84 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `27 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `88 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -177,5 +177,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Next Smaller Element](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | [Solution File](./Days/Day26/NextSmallerElement.java)
 - [x] [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution File](./Days/Day26/LRUCache.java)
 - [x] [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution File](./Days/Day26/LFUCache.java)
+
+### 📅 Day 27: Stacks & Queues (Part D)
+- [x] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution File](./Days/Day27/LargestRectangleInHistogram.java)
+- [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution File](./Days/Day27/SlidingWindowMaximum.java)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution File](./Days/Day27/MinStack.java)
+- [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution File](./Days/Day27/RottingOranges.java)
 
 </details>
