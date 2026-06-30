@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `27 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `88 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `28 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `91 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -183,5 +183,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution File](./Days/Day27/SlidingWindowMaximum.java)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution File](./Days/Day27/MinStack.java)
 - [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution File](./Days/Day27/RottingOranges.java)
+
+### 📅 Day 28: Stacks & Queues (Part E)
+- [x] [Online Stock Span](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | [Solution File](./Days/Day28/StockSpanProblem.java)
+- [x] [Maximum of Minimum for Every Window](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Solution File](./Days/Day28/MaxOfMinForEveryWindowSize.java)
+- [x] [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Solution File](./Days/Day28/TheCelebrityProblem.java)
 
 </details>
