@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `28 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `91 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `29 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `94 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -188,5 +188,15 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Online Stock Span](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | [Solution File](./Days/Day28/StockSpanProblem.java)
 - [x] [Maximum of Minimum for Every Window](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Solution File](./Days/Day28/MaxOfMinForEveryWindowSize.java)
 - [x] [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Solution File](./Days/Day28/TheCelebrityProblem.java)
+
+</details>
+
+<details open>
+<summary>📂 Week 5 (Days 29 to 35)</summary>
+
+### 📅 Day 29: Strings (Part A)
+- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution File](./Days/Day29/ReverseWordsInAString.java)
+- [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution File](./Days/Day29/LongestPalindromicSubstring.java)
+- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution File](./Days/Day29/RomanToInteger.java)
 
 </details>
