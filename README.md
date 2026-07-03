@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `29 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `94 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `30 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `97 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -198,5 +198,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution File](./Days/Day29/ReverseWordsInAString.java)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution File](./Days/Day29/LongestPalindromicSubstring.java)
 - [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution File](./Days/Day29/RomanToInteger.java)
+
+### 📅 Day 30: Strings (Part B)
+- [x] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution File](./Days/Day30/StringToInteger.java)
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution File](./Days/Day30/LongestCommonPrefix.java)
+- [x] [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Solution File](./Days/Day30/RepeatedStringMatch.java)
 
 </details>
