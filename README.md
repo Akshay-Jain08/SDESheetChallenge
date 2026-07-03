@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `30 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `97 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `31 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `100 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -203,5 +203,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution File](./Days/Day30/StringToInteger.java)
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution File](./Days/Day30/LongestCommonPrefix.java)
 - [x] [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Solution File](./Days/Day30/RepeatedStringMatch.java)
+
+### 📅 Day 31: Strings (Part C)
+- [x] [Search Pattern (Z-Function)](https://www.geeksforgeeks.org/problems/search-pattern0205/1) | [Solution File](./Days/Day31/SearchPattern.java)
+- [x] [Find the Index of the First Occurrence in a String (KMP Algorithm)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution File](./Days/Day31/FindTheIndexOfTheFirstOccurrenceInAString.java)
+- [x] [Minimum Insertions to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution File](./Days/Day31/MinimumInsertionsStepsToMakeAStringPalindrome.java)
 
 </details>
