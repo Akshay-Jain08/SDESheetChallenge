@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `31 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `100 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `34 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `103 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -208,5 +208,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Search Pattern (Z-Function)](https://www.geeksforgeeks.org/problems/search-pattern0205/1) | [Solution File](./Days/Day31/SearchPattern.java)
 - [x] [Find the Index of the First Occurrence in a String (KMP Algorithm)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution File](./Days/Day31/FindTheIndexOfTheFirstOccurrenceInAString.java)
 - [x] [Minimum Insertions to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution File](./Days/Day31/MinimumInsertionsStepsToMakeAStringPalindrome.java)
+
+### 📅 Day 32: Strings (Part D)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution File](./Days/Day32/ValidAnagrams.java)
+- [x] [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution File](./Days/Day32/CountAndSay.java)
+- [x] [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution File](./Days/Day32/CompareVersionNumbers.java)
 
 </details>
