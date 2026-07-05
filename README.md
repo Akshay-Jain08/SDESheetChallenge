@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `34 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `103 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `33 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `107 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -213,5 +213,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution File](./Days/Day32/ValidAnagrams.java)
 - [x] [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution File](./Days/Day32/CountAndSay.java)
 - [x] [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution File](./Days/Day32/CompareVersionNumbers.java)
+
+### 📅 Day 33: Binary Trees (Part A)
+- [x] [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution File](./Days/Day33/BinaryTreeInorderTraversal.java)
+- [x] [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution File](./Days/Day33/BinaryTreePreorderTraversal.java)
+- [x] [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution File](./Days/Day33/BinaryTreePostorderTraversal.java)
+- [x] [Morris Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution File](./Days/Day33/BinaryTreeInorderTraversal.java)
 
 </details>
