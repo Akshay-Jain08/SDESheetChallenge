@@ -1,5 +1,5 @@
 /**
- * Problem: Binary Tree Preorder Traversal
+ * Problem: Binary Tree Preorder Traversal (Morris Preorder Traversal)
  * Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
  * 
  * Time Complexity: O(N) -> Linear traversal over all N nodes via temporary edge threads.
