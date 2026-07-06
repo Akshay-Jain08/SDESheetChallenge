@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `33 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `107 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `34 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `111 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -219,5 +219,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution File](./Days/Day33/BinaryTreePreorderTraversal.java)
 - [x] [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution File](./Days/Day33/BinaryTreePostorderTraversal.java)
 - [x] [Morris Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution File](./Days/Day33/BinaryTreeInorderTraversal.java)
+
+### 📅 Day 34: Binary Trees (Part B)
+- [x] [Morris Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution File](../Day33/BinaryTreePreorderTraversal.java)
+- [x] [Right Side View of Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution File](./Days/Day34/BinaryTreeRightSideView.java)
+- [x] [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution File](./Days/Day34/BottomViewOfBinaryTree.java)
+- [x] [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution File](./Days/Day34/TopViewOfBinaryTree.java)
 
 </details>
