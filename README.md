@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `34 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `111 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `35 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `115 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -225,5 +225,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Right Side View of Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution File](./Days/Day34/BinaryTreeRightSideView.java)
 - [x] [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution File](./Days/Day34/BottomViewOfBinaryTree.java)
 - [x] [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution File](./Days/Day34/TopViewOfBinaryTree.java)
+
+### 📅 Day 35: Binary Tree Structure & Math
+- [x] [All-In-One (Pre, Post, Inorder) Tree Traversal](https://www.naukri.com/code360/problems/tree-traversal_981269?leftPanelTabValue=PROBLEM&count=25&page=2&search=&sort_entity=order&sort_order=ASC) | [Solution File](./Days/Day35/PrePostInorderInOneTraversal.java)
+- [x] [Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution File](./Days/Day35/VerticalOrderTraversalOfABinaryTree.java)
+- [x] [Binary Tree Paths (Root to Leaf)](https://leetcode.com/problems/binary-tree-paths/) | [Solution File](./Days/Day35/BinaryTreePaths.java)
+- [x] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution File](./Days/Day35/MaximumWidthOfBinaryTree.java)
 
 </details>
