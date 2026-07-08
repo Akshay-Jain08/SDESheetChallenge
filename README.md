@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `35 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `115 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `36 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `119 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -226,10 +226,21 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution File](./Days/Day34/BottomViewOfBinaryTree.java)
 - [x] [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution File](./Days/Day34/TopViewOfBinaryTree.java)
 
-### 📅 Day 35: Binary Tree Structure & Math
+### 📅 Day 35: Binary Trees (Part C)
 - [x] [All-In-One (Pre, Post, Inorder) Tree Traversal](https://www.naukri.com/code360/problems/tree-traversal_981269?leftPanelTabValue=PROBLEM&count=25&page=2&search=&sort_entity=order&sort_order=ASC) | [Solution File](./Days/Day35/PrePostInorderInOneTraversal.java)
 - [x] [Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution File](./Days/Day35/VerticalOrderTraversalOfABinaryTree.java)
 - [x] [Binary Tree Paths (Root to Leaf)](https://leetcode.com/problems/binary-tree-paths/) | [Solution File](./Days/Day35/BinaryTreePaths.java)
 - [x] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution File](./Days/Day35/MaximumWidthOfBinaryTree.java)
+
+</details>
+
+<details open>
+<summary>📂 Week 6 (Days 36 to 42)</summary>
+
+### 📅 Day 36: Binary Trees (Part D)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution File](./Days/Day36/BinaryTreeLevelOrderTraversal.java)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution File](./Days/Day36/MaximumDepthOfBinaryTree.java)
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution File](./Days/Day36/DiameterOfBinaryTree.java)
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution File](./Days/Day36/BalancedBinaryTree.java)
 
 </details>
