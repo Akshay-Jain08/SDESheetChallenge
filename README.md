@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `36 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `119 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `37 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `123 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -242,5 +242,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution File](./Days/Day36/MaximumDepthOfBinaryTree.java)
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution File](./Days/Day36/DiameterOfBinaryTree.java)
 - [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution File](./Days/Day36/BalancedBinaryTree.java)
+
+### 📅 Day 37: Binary Trees (Part E)
+- [x] [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution File](./Days/Day37/LowestCommonAncestorOfABinaryTree.java)
+- [x] [Same Tree (Identical Check)](https://leetcode.com/problems/same-tree/) | [Solution File](./Days/Day37/SameTree.java)
+- [x] [Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution File](./Days/Day37/BinaryTreeZigzagLevelOrderTraversal.java)
+- [x] [Boundary Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Solution File](./Days/Day37/TreeBoundaryTraversal.java)
 
 </details>
