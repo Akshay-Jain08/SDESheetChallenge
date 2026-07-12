@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `37 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `123 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `38 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `126 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -248,5 +248,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Same Tree (Identical Check)](https://leetcode.com/problems/same-tree/) | [Solution File](./Days/Day37/SameTree.java)
 - [x] [Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution File](./Days/Day37/BinaryTreeZigzagLevelOrderTraversal.java)
 - [x] [Boundary Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Solution File](./Days/Day37/TreeBoundaryTraversal.java)
+
+### 📅 Day 38: Advanced Construction & Path Math
+- [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution File](./Days/Day38/BinaryTreeMaximumPathSum.java)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution File](./Days/Day38/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+- [x] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution File](./Days/Day38/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
 
 </details>
