@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `39 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `130 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `40 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `133 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -258,5 +258,10 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution File](./Days/Day39/SymmetricTree.java)
 - [x] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution File](./Days/Day39/FlattenBinaryTreeToLinkedList.java)
 - [x] [Children Sum Property](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Solution File](./Days/Day39/ChildrenSumInABinaryTree.java)
+
+### 📅 Day 40: Binary Search Trees (Part  A)
+- [x] [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution File](./Days/Day40/PopulateNextRightPointersInEachNode.java)
+- [x] [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution File](./Days/Day40/SearchInABinarySearchTree.java)
+- [x] [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution File](./Days/Day40/ConvertSortedArrayToBinarySearchTree.java)
 
 </details>
