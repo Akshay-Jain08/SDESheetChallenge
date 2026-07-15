@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `40 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `133 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `41 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `137 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -263,5 +263,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution File](./Days/Day40/PopulateNextRightPointersInEachNode.java)
 - [x] [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution File](./Days/Day40/SearchInABinarySearchTree.java)
 - [x] [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution File](./Days/Day40/ConvertSortedArrayToBinarySearchTree.java)
+
+### 📅 Day 41: Binary Search Trees (Part  B)
+- [x] [Construct BST from Preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution File](./Days/Day41/ConstructBinarySearchTreeFromPreorderTraversal.java)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution File](./Days/Day41/ValidateBinarySearchTree.java)
+- [x] [LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution File](./Days/Day41/LowestCommonAncestorOfABinarySearchTree.java)
+- [x] [Predecessor and Successor in BST](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Solution File](./Days/Day41/PredecessorAndSuccessor.java)
 
 </details>
