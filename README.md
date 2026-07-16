@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `41 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `137 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `42 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `141 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -269,5 +269,11 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution File](./Days/Day41/ValidateBinarySearchTree.java)
 - [x] [LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution File](./Days/Day41/LowestCommonAncestorOfABinarySearchTree.java)
 - [x] [Predecessor and Successor in BST](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Solution File](./Days/Day41/PredecessorAndSuccessor.java)
+
+### 📅 Day 42: BST Operations & Iterators
+- [x] [Floor in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | [Solution File](./Days/Day42/FloorInBST.java)
+- [x] [Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Solution File](./Days/Day42/CeilInBST.java)
+- [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution File](./Days/Day42/KthSmallestElementInABST.java)
+- [x] [Kth Largest Element in a BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | [Solution File](./Days/Day42/KthLargestElementInABST.java)
 
 </details>
