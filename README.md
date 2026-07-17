@@ -14,8 +14,8 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 
 | Metric | Progress | Status |
 | :--- | :--- | :--- |
-| 📅 **Days Completed** | `42 / 45` | 🟡 In Progress |
-| 🚀 **Problems Solved** | `141 / 191` | 🟡 Making Progress |
+| 📅 **Days Completed** | `43 / 45` | 🟡 In Progress |
+| 🚀 **Problems Solved** | `145 / 191` | 🟡 Making Progress |
 | 🛠️ **Primary Language** | `Java ☕` | 💻 Configured |
 
 ---
@@ -270,10 +270,22 @@ This repository tracks my daily progress during the **45-Day SDE Sheet Challenge
 - [x] [LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution File](./Days/Day41/LowestCommonAncestorOfABinarySearchTree.java)
 - [x] [Predecessor and Successor in BST](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Solution File](./Days/Day41/PredecessorAndSuccessor.java)
 
-### 📅 Day 42: BST Operations & Iterators
+### 📅 Day 42: Binary Search Trees (Part  C)
 - [x] [Floor in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | [Solution File](./Days/Day42/FloorInBST.java)
 - [x] [Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Solution File](./Days/Day42/CeilInBST.java)
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution File](./Days/Day42/KthSmallestElementInABST.java)
 - [x] [Kth Largest Element in a BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | [Solution File](./Days/Day42/KthLargestElementInABST.java)
 
 </details>
+
+<details open>
+<summary>📂 Week 7 (Days 43 to 45)</summary>
+
+### 📅 Day 43: Binary Search Trees (Part  D)
+- [x] [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution File](./Days/Day43/TwoSumInABST.java)
+- [x] [BST Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution File](./Days/Day43/BSTIterator.java)
+- [x] [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Solution File](./Days/Day43/MaximumSumBSTInBinaryTree.java)
+- [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution File](./Days/Day43/Codec.java)
+
+</details>
+
